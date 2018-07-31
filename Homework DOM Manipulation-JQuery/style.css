@@ -1,0 +1,27 @@
+form {
+  border: solid 1px black;
+  padding: 20px;
+  width: 500px;
+  margin: 0 auto;
+  border-radius: 5px;
+
+}
+input,button,label {
+  padding: 3px;
+  margin: 5px;
+  border-radius: 5px;
+}
+div img {
+  width: 250px;
+  height: 150px;
+  position: absolute;
+  top: 100px;
+  left: 50%;
+}
+button {
+  position: relative;
+  left: 230px;
+}
+textarea {
+  border-radius: 5px;
+}
